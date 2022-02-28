@@ -3,9 +3,15 @@
 #versioning system:
 #major.minor.bugs
 YTFZF_VERSION="2.2"
+<<<<<<< HEAD
 trian
 change2
 change3
+=======
+change for repository 2
+change2 for repository 2
+change3 for repository 2
+>>>>>>> branch2
 #More Changes for branch 2
 # Scraping: query -> video json
 # User Interface: video json -> user selection -> ID
