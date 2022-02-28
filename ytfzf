@@ -1,5 +1,5 @@
 #!/usr/bin/env sh
-#Changes
+#More changes
 #versioning system:
 #major.minor.bugs
 YTFZF_VERSION="2.2"
